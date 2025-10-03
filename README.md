@@ -3,7 +3,7 @@
 This is a solution to the [Chat app CSS illustration challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/chat-app-css-illustration-O5auMkFqY). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 <p>
-  <a href="">
+  <a href="https://www.frontendmentor.io/solutions/interactive-chat-app-that-will-response-to-your-message-fUTvuvvARQ">
     <img
       alt="Solution post"
       src="https://img.shields.io/badge/Frontendmentor-blue?label=Solution%20on"
