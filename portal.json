@@ -1,0 +1,15 @@
+{
+  "name": "Chat App CSS Illustration",
+  "featured": true,
+  "colors:": {
+    "brand": "#AE3DFD"
+  },
+  "images": {
+    "preview": "https://raw.githubusercontent.com/haquanq-frontendmentor/chat-app-css-illustration/main/docs/preview.jpg"
+  },
+  "frontendmentor": {
+    "difficulty": "intermediate",
+    "challengeUrl": "https://www.frontendmentor.io/challenges/chat-app-css-illustration-O5auMkFqY",
+    "solutionUrl": "https://www.frontendmentor.io/solutions/interactive-chat-app-that-will-response-to-your-message-fUTvuvvARQ"
+  }
+}
